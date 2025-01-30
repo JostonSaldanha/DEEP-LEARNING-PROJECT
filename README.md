@@ -47,6 +47,7 @@ Autonomous Drones: Using AI-powered drones to classify and study birds in real-t
 ### Editor/Platform Used
 
 VS Code (Visual Studio Code)
+
 Jupyter Notebook
 
 
@@ -113,3 +114,18 @@ model.compile(loss="sparse_categorical_crossentropy",
 After training, loss and accuracy trends are evaluated of the model:
 Accuracy:87.59% 
 loss: 0.4466
+
+
+## OUTPUT 
+
+![Image](https://github.com/user-attachments/assets/aca138d7-3470-4e6f-b1da-174c112b33f4)
+![Image](https://github.com/user-attachments/assets/ca18fbe5-7c6b-4fe8-90b2-abf3477d2a29)
+![Image](https://github.com/user-attachments/assets/bb3bfdeb-82e4-47ff-8ef3-5fd8b252f02a)
+![Image](https://github.com/user-attachments/assets/cdbe3aa3-8869-4223-b4be-224423978779)
+![Image](https://github.com/user-attachments/assets/63033944-9b3d-46e7-a679-ec88dd093f95)
+![Image](https://github.com/user-attachments/assets/6b1b892b-ee9f-45a7-875e-8806f6c5524f)
+![Image](https://github.com/user-attachments/assets/39bfd6a0-542c-4bc6-9063-4b57822ff112)
+![Image](https://github.com/user-attachments/assets/bc089675-38a4-4fb6-936e-31ac82eea4fb)
+![Image](https://github.com/user-attachments/assets/6b63ae1c-9fb7-4c75-8f0f-68911aedcb36)
+![Image](https://github.com/user-attachments/assets/7316d92d-9def-4f41-8fdd-20e2700cb47c)
+![Image](https://github.com/user-attachments/assets/1f3739e3-9ee1-4e07-b682-380e02c737d7)
