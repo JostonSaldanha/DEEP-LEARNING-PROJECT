@@ -111,6 +111,7 @@ model.compile(loss="sparse_categorical_crossentropy",
               metrics=["accuracy"])
 
 ![Image](https://github.com/user-attachments/assets/cdbe3aa3-8869-4223-b4be-224423978779)
+![Image](https://github.com/user-attachments/assets/a4001045-2616-4e4f-b792-0bb60b1b37db)
 
 #### 5. Model Evaluation and Visualization
 
