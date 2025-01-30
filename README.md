@@ -99,6 +99,8 @@ Fourth Convolutional Block: Conv2D (256 filters) + BatchNormalization + MaxPooli
 
 Fully Connected Layer: GlobalAveragePooling2D + Dropout + Dense (525 classes with softmax activation).
 
+![Image](https://github.com/user-attachments/assets/bb3bfdeb-82e4-47ff-8ef3-5fd8b252f02a)
+
 
 #### 4.Compilation and training
 
@@ -108,6 +110,7 @@ model.compile(loss="sparse_categorical_crossentropy",
               optimizer="adam",
               metrics=["accuracy"])
 
+![Image](https://github.com/user-attachments/assets/cdbe3aa3-8869-4223-b4be-224423978779)
 
 #### 5. Model Evaluation and Visualization
 
@@ -119,12 +122,8 @@ loss: 0.4466
 ## OUTPUT 
 
 
-![Image](https://github.com/user-attachments/assets/bb3bfdeb-82e4-47ff-8ef3-5fd8b252f02a)
-![Image](https://github.com/user-attachments/assets/cdbe3aa3-8869-4223-b4be-224423978779)
-![Image](https://github.com/user-attachments/assets/63033944-9b3d-46e7-a679-ec88dd093f95)
-![Image](https://github.com/user-attachments/assets/6b1b892b-ee9f-45a7-875e-8806f6c5524f)
-![Image](https://github.com/user-attachments/assets/39bfd6a0-542c-4bc6-9063-4b57822ff112)
-![Image](https://github.com/user-attachments/assets/bc089675-38a4-4fb6-936e-31ac82eea4fb)
-![Image](https://github.com/user-attachments/assets/6b63ae1c-9fb7-4c75-8f0f-68911aedcb36)
-
-![Image](https://github.com/user-attachments/assets/1f3739e3-9ee1-4e07-b682-380e02c737d7)
+![Image](https://github.com/user-attachments/assets/e8da0e47-8037-419d-909a-af67bf563b25)
+![Image](https://github.com/user-attachments/assets/1833b913-5137-479f-8da8-c4ad65a69a9f)
+![Image](https://github.com/user-attachments/assets/1d72d11b-7ed7-4719-990d-cbf1acfdb7ae)
+![Image](https://github.com/user-attachments/assets/f4872c3c-0ab6-4253-bc9f-28fb3040c627)
+![Image](https://github.com/user-attachments/assets/05e65c05-f244-4982-94b3-6affa3f83ef3)
